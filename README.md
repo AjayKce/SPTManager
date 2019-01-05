@@ -5,7 +5,7 @@ of a real world project which specifies <b>Student Placement Tracking</b>. In mo
 visits company for a date for the placement interview. The real world problem is the placement head doesn't know whether the company
 visit the campus or reject the campus . This Project fully explains the solution for the explained problem.
 
-In this project I have used <b>HTML<b> , <b>CSS</b>, <b>BOOTSTRAP</b>, <b>JAVASCRIPT</b> as well as <b>JQUERY</b>. The project
+In this project I have used <b>HTML</b> , <b>CSS</b>, <b>BOOTSTRAP</b>, <b>JAVASCRIPT</b> as well as <b>JQUERY</b>. The project
 explains about the post-meeting , pre-meeting and record maintanance. The dynamic content is also added by JQUERY using event delegation
 
 ### Test Link
