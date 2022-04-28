@@ -1,4 +1,4 @@
-# TaskManager
+# SPTManager
 
 Hello! Geeky patners I am Ajay UI/UX Web Developer Enthusiast. Very Happy to visit My repository. This is a blueprint(frontend)
 of a real world project which specifies <b>Student Placement Tracking</b>. In most of the time the placement co-ordinators often
